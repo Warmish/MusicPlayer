@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.648,C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\odtwb\odtwb.dproj=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\odtwb\odtwb.dproj=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\odtwb\odtwb.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.896,=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\odtwb\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.256,=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\odtwb\Unit2.pas=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\odtwb\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\odtwb\Unit2.dfm=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.841,=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\odtwb\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\odtwb\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,=C:\Users\Rafał\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
